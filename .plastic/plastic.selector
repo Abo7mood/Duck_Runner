@@ -1,0 +1,4 @@
+repository "Duck Runner (1)@Abo7mood@cloud"
+  path "/"
+    br "/main"
+    co "/main"
