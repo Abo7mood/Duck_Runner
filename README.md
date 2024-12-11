@@ -4,7 +4,7 @@ Welcome to **Duck Runner**! 🦆 This is an exciting **2D endless runner** devel
 
 ## 🎮 Gameplay Details 🎮
 
-- **Operating System**: Windows 🖥️ / Web 🌐
+- **Operating System**: Web 🌐
 - **Controls**: Mouse and Keyboard 🖱️⌨️
 - **Game Type**: 2D Game 🌍
 
@@ -46,3 +46,16 @@ Feel free to fork the project and submit pull requests. If you find any bugs �
 
 This project is licensed under the MIT License - see the LICENSE file for details. ⚖️
 
+# Story of this game 📖
+--------------------------
+
+I created this game  for one of my clients on **Fiverr** for an NFT project, it was a really huge project and this game was just part of it, it's a quality game that more than **500** people played it. The project was completed on **2/10/2022**.
+
+The development process was really easy since I make these type of games often, and I stayed committed to delivering a product that met his expectations. 
+
+In the end, the hard work paid off. The client was thrilled with the result and left me a glowing **5-star review on Fiverr**, praising my dedication and expertise. This project remains a memorable milestone in my journey as a game developer.
+
+# 🎮 Demo 🎮
+--------------------------
+
+Try the playable demo here without downloading: [HitWithSpin Game Demo](https://abo-7mood.itch.io/duck) Web 🌐
