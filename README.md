@@ -1,6 +1,10 @@
 # Duck Runner 🦆🏃‍♂️
+--------------------------
 
 Welcome to **Duck Runner**! 🦆 This is an exciting **2D endless runner** developed in Unity. Combining the fast-paced platform jumping of **Geometry Dash** with the obstacle-dodging mechanics of **Subway Surfers**, Duck Runner challenges players to stay alive while navigating through an infinite world of platforms and hazards.
+
+![Game Preview](https://i.postimg.cc/fT5vrgKN/2024-12-11-105506.png)
+
 
 ## 🎮 Gameplay Details 🎮
 
