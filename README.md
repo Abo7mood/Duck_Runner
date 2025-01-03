@@ -62,4 +62,4 @@ In the end, the hard work paid off. The client was thrilled with the result and 
 # 🎮 Demo 🎮
 --------------------------
 
-Try the playable demo here without downloading: [HitWithSpin Game Demo](https://abo-7mood.itch.io/duck) Web 🌐
+Try the playable demo here without downloading: [Duck Game Demo](https://abo-7mood.itch.io/duck) Web 🌐
