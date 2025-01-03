@@ -5,6 +5,8 @@ Welcome to **Duck Runner**! 🦆 This is an exciting **2D endless runner** devel
 
 ![Game Preview](https://i.postimg.cc/fT5vrgKN/2024-12-11-105506.png)
 
+# Solo Project 🔥🔥🔥
+this project being made solo by me
 
 ## 🎮 Gameplay Details 🎮
 
